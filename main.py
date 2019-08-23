@@ -4,13 +4,13 @@ import meraki
 
 # SET THIS UP
 API_KEY = None
-ORG_NAME = None #'Rafael Carvalho' + 'aaa'
-NET_NAME = None #'San Francisco' + 'aaa'
-SSID_NAME = None #'SplashSSID' + 'aaa'
+ORG_NAME = None
+NET_NAME = None
+SSID_NAME = None
 
 #If you have this information handy, you can pre-fill the items below. If not, the script will find it for you.
-ORG_ID = ''
-NETWORK_ID = ''
+ORG_ID = None
+NETWORK_ID = None
 SSID_ID = None
 
 
