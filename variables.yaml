@@ -1,0 +1,4 @@
+API_KEY: your-meraki-api-key
+ORG_NAME: name-of-your-organization
+NETWORK_NAME: name-of-the-targeted-network
+SSID_NAME: name-of-the-ssid
